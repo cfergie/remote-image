@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FoundationUtils",
+        "repositoryURL": "https://github.com/cfergie/foundation-utils.git",
+        "state": {
+          "branch": null,
+          "revision": "0655916dec2e1f39b6aff5433360cf85d2b69a22",
+          "version": "0.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

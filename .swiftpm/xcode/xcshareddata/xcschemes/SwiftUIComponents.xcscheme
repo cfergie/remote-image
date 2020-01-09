@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "RemoteImage"
-               BuildableName = "RemoteImage"
-               BlueprintName = "RemoteImage"
+               BlueprintIdentifier = "SwiftUIComponents"
+               BuildableName = "SwiftUIComponents"
+               BlueprintName = "SwiftUIComponents"
                ReferencedContainer = "container:">
             </BuildableReference>
          </BuildActionEntry>
@@ -50,9 +50,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "RemoteImage"
-            BuildableName = "RemoteImage"
-            BlueprintName = "RemoteImage"
+            BlueprintIdentifier = "SwiftUIComponents"
+            BuildableName = "SwiftUIComponents"
+            BlueprintName = "SwiftUIComponents"
             ReferencedContainer = "container:">
          </BuildableReference>
       </MacroExpansion>
