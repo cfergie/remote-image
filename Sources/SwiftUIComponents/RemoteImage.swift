@@ -14,9 +14,9 @@ public struct RemoteImage: View {
 
     public init(
         request: URLRequest,
-        loading: Color = .gray,
-        failure: Color = .gray,
-        imageFetchingService: ImageFetchingService = DefaultImageFetchingService.shared
+        loading: Color,
+        failure: Color,
+        imageFetchingService: ImageFetchingService
     ) {
         self.request = request
         self.loading = loading
@@ -67,9 +67,9 @@ extension RemoteImage {
 extension RemoteImage {
     public init(
         url: URL,
-        loading: Color = .gray,
-        failure: Color = .gray,
-        imageFetchingService: ImageFetchingService = DefaultImageFetchingService.shared
+        loading: Color,
+        failure: Color,
+        imageFetchingService: ImageFetchingService
     ) {
         self.init(
             request: URLRequest(url: url),
